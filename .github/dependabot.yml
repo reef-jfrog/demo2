@@ -8,7 +8,10 @@ updates:
   - package-ecosystem: npm
     directory: "/javascript"
     schedule:
-      interval: daily
+      interval: "daily"
+      time: "17:03"
+      # Use Japan Standard Time (UTC +09:00)
+      timezone: "Asia/Jerusalem"
   - package-ecosystem: bundler
     directory: "/ruby"
     schedule:
